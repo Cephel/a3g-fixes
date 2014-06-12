@@ -18,6 +18,6 @@ class CfgPatches {
 class CfgAmmo {
 	class FlareCore;
 	class Flare_82mm_AMOS_White : FlareCore {
-		brightness=16;
+		brightness = 24;
 	};
 };
