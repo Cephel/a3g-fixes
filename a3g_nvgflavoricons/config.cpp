@@ -4,7 +4,7 @@ class CfgPatches {
 		weapons[] = {};
 		requiredVersion = 0.1;
 		requiredAddons[] = { "A3_Data_F", "A3_Weapons_F", "A3_Weapons_F_EPA_Acc" };
-		author[]= { "akp", "Cephei"	};
+		author[]= { "akp", "Cephei" };
 	};
 };
 
