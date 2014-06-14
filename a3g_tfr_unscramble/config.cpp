@@ -4,7 +4,7 @@ class CfgPatches {
         weapons[] = {};
         requiredVersion = 0.1;
         requiredAddons[] = { "Extended_EventHandlers", "task_force_radio" };
-        author[] = {"Cephei"};
+        author[] = { "Cephei" };
     };
 };
 
